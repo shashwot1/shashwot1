@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**shashwot1/shashwot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a high-schooler learning to code. Ciao.
 
 Here are some ideas to get you started:
 
@@ -9,4 +8,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C#, C++
 - 👯 I’m looking to collaborate on 2D/3D games
 - 🤔 I’m looking for help with C#, C++
--->
+
